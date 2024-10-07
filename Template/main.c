@@ -1,8 +1,9 @@
 
 /* C Variables */
 
-#include <stdint.h>
 #include <stdio.h>
+#include <inttypes.h>
+
 
 int main() {
   printf("In main\n");
