@@ -1,7 +1,6 @@
 
 /* convert 16-bit register value into humidity-% */
 
-
 #include <stdio.h>
 #include <inttypes.h>
 #include <math.h>
