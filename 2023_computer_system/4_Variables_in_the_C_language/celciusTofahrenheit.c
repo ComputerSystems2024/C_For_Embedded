@@ -10,3 +10,9 @@ int main()
     printf ("%.2f Fahrenheit are %.2f Centigrades",fah, cent);
     return 0;
 }
+/*
+0000:11111111
+0001:11111111
+0010:11111110
+0011:10100111
+*/
